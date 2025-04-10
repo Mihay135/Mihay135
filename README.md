@@ -8,7 +8,7 @@
       <img height="25" src="ReadmeIcons/gmailIcon.png" />
    <a/>
    <a href = "linkedin.com/in/mihai-sauca-462b91356">
-      linkedin
+      <img height="25" src="ReadmeIcons/linkedInIcon.png" />
    </a>
   
 <!---
