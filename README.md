@@ -7,6 +7,7 @@
    <a href="mailto:mihai.sauca.135@gmail.com">
       <img height="25" src="ReadmeIcons/gmailIcon.png" />
    <a/>
+   <span style="width:20;"></span>
    <a href = "linkedin.com/in/mihai-sauca-462b91356">
       <img height="25" src="ReadmeIcons/linkedInIcon.png" />
    </a>
