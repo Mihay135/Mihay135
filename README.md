@@ -7,7 +7,7 @@
    <a href="mailto:mihai.sauca.135@gmail.com">
       <img height="25" src="ReadmeIcons/gmailIcon.png" />
    <a/>
-   <a href = "linkedin.com/in/mihai-sauca-462b91356">
+   <a href = "https://www.linkedin.com/in/mihai-sauca-462b91356">
       <img height="25" src="ReadmeIcons/linkedInIcon.png" />
    </a>
   
