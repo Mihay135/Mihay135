@@ -1,6 +1,6 @@
 # Ciao, I'm Mihai! 👋
 
-![Profile Banner](ReadmeIcons/profile_banner.png)
+![Profile Banner](ReadmeIcons/profile_banner.jpg)
 *Just an Italian/Romanian tech enthusiast diving into the world of coding! 🚀*
 
 Ciao! I’m **Mihai** (@Mihay135), hailing from Romania 🇷🇴 I made my way to the beautiful land of Italy 🇮🇹 when I was very young. I’m a curious learner passionate about exploring the vast universe of technology, from crafting sleek Java GUIs to building dynamic web apps. I’m on a mission to soak up as much knowledge as possible before mastering my favorite tech stacks!
