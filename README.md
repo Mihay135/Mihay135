@@ -27,7 +27,7 @@ I’m all about learning by doing, so expect to see a mix of projects showcasing
 
 - **University Projects**: Built applications in Java, SQL, C, and RISC-V for coursework.
 - **Personal Experiments**: Working on Java Swing CRUD apps, React.js frontends, and more.
-- *Check out my repositories below for the latest!*
+- **Check out my repositories below for the latest!**
 
 ## 📊 GitHub Stats
 
