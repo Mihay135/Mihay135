@@ -29,17 +29,17 @@ I’m all about learning by doing, so expect to see a mix of projects showcasing
 - **Personal Experiments**: Working on Java Swing CRUD apps, React.js frontends, and more.
 - *Check out my repositories below for the latest!*
 
-## 🚀 Goals
-
-- Master GitHub workflows to collaborate like a pro.
-- Build a portfolio of projects in Java, React, and Spring Boot.
-- Narrow down my tech focus while keeping my curiosity alive!
-
 ## 📊 GitHub Stats
 
 ![Mihai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mihay135&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihay135&layout=compact&theme=radical)
 
+## 🚀 Goals
+
+- Master GitHub workflows to collaborate like a pro.
+- Build a portfolio of projects in Java, React, and Spring Boot.
+- Narrow down my tech focus while keeping my curiosity alive!
+  
 ## 📬 Get in Touch
 
 Feel free to reach out. I’d love to connect, collaborate, or just chat about tech!
