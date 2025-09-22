@@ -44,7 +44,7 @@ I’m all about learning by doing, so expect to see a mix of projects showcasing
 
 Feel free to reach out. I’d love to connect, collaborate, or just chat about tech!
 
-<a href="sauca.mihai.135@gmail.com">
+<a href="mailto:sauca.mihai.135@gmail.com">
    <img height="25" src="ReadmeIcons/gmailIcon.png" alt="Gmail" />
 </a>
 &ensp;
