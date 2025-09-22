@@ -44,15 +44,15 @@ I’m all about learning by doing, so expect to see a mix of projects showcasing
 
 Feel free to reach out. I’d love to connect, collaborate, or just chat about tech!
 
-<a href="#">
+<a href="sauca.mihai.135@gmail.com">
    <img height="25" src="ReadmeIcons/gmailIcon.png" alt="Gmail" />
 </a>
-<a href="#">
+&ensp;
+<a href="https://www.linkedin.com/in/mihai-sauca-462b91356">
    <img height="25" src="ReadmeIcons/linkedInIcon.png" alt="LinkedIn" />
 </a>
 
----
-
+##
 *Built with 💻 and a sprinkle of Italian/Romanian flair 🇮🇹/🇷🇴. Star ⭐ my repos if you like what you see!*
 <!---
 Mihay135/Mihay135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
