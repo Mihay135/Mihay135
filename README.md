@@ -45,11 +45,11 @@ I’m all about learning by doing, so expect to see a mix of projects showcasing
 Feel free to reach out. I’d love to connect, collaborate, or just chat about tech!
 
 <a href="mailto:sauca.mihai.135@gmail.com">
-   <img height="50" width="50" src="ReadmeIcons/gmailIcon.png" alt="Gmail" />
+   <img height="40" width="40" src="ReadmeIcons/gmailIcon.png" alt="Gmail" />
 </a>
 &ensp;
 <a href="https://www.linkedin.com/in/mihai-sauca-462b91356">
-   <img height="50" width="50" src="ReadmeIcons/linkedInIcon.png" alt="LinkedIn" />
+   <img height="40" width="40" src="ReadmeIcons/linkedInIcon.png" alt="LinkedIn" />
 </a>
 
 ##
