@@ -8,7 +8,7 @@ Hailing from Romania 🇷🇴 I made my way to the beautiful land of Italy 🇮�
 ## 🌟 About Me
 
 - 📍 **Location**: Italy
-- 🎓 **Background**: Recently started mastering GitHub and GitHub Desktop to share my coding adventures.
+- 🎓 **Background**: University student recently started mastering GitHub and GitHub Desktop to share my coding adventures.
 - 🔥 **Passion**: Diving deep into various technologies to find my niche in the tech world.
 - 💡 **Fun Fact**: I probably drink too much tea while debugging code 🍵.
 
