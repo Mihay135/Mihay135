@@ -7,10 +7,11 @@ Hailing from Romania 🇷🇴 I made my way to the beautiful land of Italy 🇮�
 
 ## 🌟 About Me
 
-- 📍 **Location**: Italy
-- 🎓 **Background**: IT University student recently started mastering GitHub and GitHub Desktop to share my coding adventures.
-- 🔥 **Passion**: Diving deep into various technologies to find my niche in the tech world.
-- 💡 **Fun Fact**: I probably drink too much tea while debugging code 🍵.
+- 📍 **Location**: Italy 🇮🇹
+- 🎓 **Background**: IT University Student recently started mastering GitHub and GitHub Desktop to share my coding adventures.
+- 🔥 **Passion**: Diving deep into various technologies to find my niche in the tech world💻.
+- 🎮 **Hobbies**: In my free time I like reading books📚 (fantasy or sci-fi), drawing✏️ (I do "Inktober" each year) and playing videogames🎲 (RTS or RPG). 
+- 💡 **Fun Facts**: I probably drink too much tea while debugging code 🍵. I'm a dog🐶 person, although I've had far more cats🐈 in my life.
 
 ## 🛠️ Tech I’m Exploring
 
@@ -18,8 +19,11 @@ I’m currently juggling a variety of technologies to broaden my skills:
 
 - **Backend**: Java, Java Spring/Boot, C#, SQL
 - **Frontend**: JavaScript, HTML/CSS, React.js
-- **GUI Development**: Java Swing
+- **GUI Development**: Java Swing🪟
+- **Databases**: MySQL, phpMyAdmin, SQLite, MsSQL
+- **Tools**: WordPress 📝, Agile/SCRUM 🏃‍♂️
 - **Other**: C, RISC-V (from university projects)
+- **Spoken Languages**: Romanian (Native) 🇷🇴, Italian (C2) 🇮🇹, English (B2/C1) 🇬🇧,French (B1) 🇫🇷, Dutch (A1) 🇳🇱
 
 I’m all about learning by doing, so expect to see a mix of projects showcasing these skills!
 
