@@ -51,7 +51,10 @@ Feel free to reach out. I’d love to connect, collaborate, or just chat about t
 <a href="mailto:sauca.mihai.135@gmail.com">
    <img height="40" width="40" src="ReadmeIcons/gmailIcon.png" alt="Gmail" />
 </a>
+<p>
 &ensp;
+</p>
+
 <a href="https://www.linkedin.com/in/mihai-sauca-462b91356">
    <img height="40" width="40" src="ReadmeIcons/linkedInIcon.png" alt="LinkedIn" />
 </a>
