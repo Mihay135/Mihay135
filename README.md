@@ -23,7 +23,7 @@ I’m currently juggling a variety of technologies to broaden my skills:
 - **Databases**: MySQL, phpMyAdmin, SQLite, MsSQL
 - **Tools**: WordPress 📝, Agile/SCRUM 🏃‍♂️
 - **Other**: C, RISC-V (from university projects)
-- **Spoken Languages**: Romanian (Native) 🇷🇴, Italian (C2) 🇮🇹, English (B2/C1) 🇬🇧,French (B1) 🇫🇷, Dutch (A1) 🇳🇱
+- **Spoken Languages**: Romanian (Native) 🇷🇴, Italian (C2) 🇮🇹, English (C1) 🇬🇧, French (B1) 🇫🇷, Dutch (A1) 🇳🇱
 
 I’m all about learning by doing, so expect to see a mix of projects showcasing these skills!
 
