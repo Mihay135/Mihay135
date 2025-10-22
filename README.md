@@ -29,7 +29,7 @@ I’m all about learning by doing, so expect to see a mix of projects showcasing
 
 ## 📚 Current Projects
 
-- **University Projects**: Built applications in Java, SQL, C, and RISC-V for coursework.
+- **University Projects**: Built applications in Java, SQL, C, MATLAB, and RISC-V for coursework.
 - **Personal Experiments**: Working on Java Swing CRUD apps, React.js frontends, and more.
 - **Check out my repositories below for the latest projects!**
 
