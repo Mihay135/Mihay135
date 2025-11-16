@@ -11,14 +11,14 @@ Hailing from Romania 🇷🇴 I made my way to the beautiful land of Italy 🇮�
 - 🎓 **Background**: IT University Student recently started mastering GitHub and GitHub Desktop to share my coding adventures.
 - 🔥 **Passion**: Diving deep into various technologies to find my niche in the tech world💻.
 - 🎮 **Hobbies**: In my free time I like reading books📚 (fantasy or sci-fi), drawing✏️ (I do "Inktober" each year) and playing videogames🎲 (RTS or RPG). 
-- 💡 **Fun Facts**: I probably drink too much tea while debugging code 🍵. I'm a dog🐶 person, although I've had far more cats🐈 in my life.
+- 💡 **Fun Facts**: I'm a dog🐶 person, although I've had far more cats🐈 in my life. I probably drink too much tea while debugging code 🍵. I
 
 ## 🛠️ Tech I’m Exploring
 
-I’m currently juggling a variety of technologies to broaden my skills:
+I’m currently juggling a variety of technologies to broaden my skills which until now contain the following:
 
-- **Backend**: Java, Java Spring/Boot, C#, SQL
-- **Frontend**: JavaScript, HTML/CSS, React.js
+- **Backend**: Java, Java Spring/Boot, C# (base), SQL
+- **Frontend**: JavaScript/TypeScript, HTML/CSS, React.js, TailwindCSS
 - **GUI Development**: Java Swing🪟
 - **Databases**: MySQL, phpMyAdmin, SQLite, MsSQL
 - **Tools**: WordPress 📝, Agile/SCRUM 🏃‍♂️
