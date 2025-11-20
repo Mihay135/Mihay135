@@ -1,7 +1,7 @@
 # Ciao, I'm Mihai! 👋
 
 <img src="ReadmeIcons/profile_banner.jpg" height = "150px" width= "85%"/>
-<p>*Just an Italian/Romanian tech enthusiast diving into the world of coding! 🚀*
+<p>*Just an Italian/Romanian tech enthusiast diving into the world of coding as a software developer! 🚀*
 
 Hailing from Romania 🇷🇴 I made my way to the beautiful land of Italy 🇮🇹 when I was very young. I’m a curious learner passionate about exploring the vast universe of technology, from crafting sleek Java GUIs to building dynamic web apps. I’m on a mission to soak up as much knowledge as possible before mastering my favorite tech stacks!</p>
 
@@ -10,8 +10,8 @@ Hailing from Romania 🇷🇴 I made my way to the beautiful land of Italy 🇮�
 - 📍 **Location**: Italy 🇮🇹
 - 🎓 **Background**: IT University Student recently started mastering GitHub and GitHub Desktop to share my coding adventures.
 - 🔥 **Passion**: Diving deep into various technologies to find my niche in the tech world💻.
-- 🎮 **Hobbies**: In my free time I like reading books📚 (fantasy or sci-fi), drawing✏️ (I do "Inktober" each year) and playing videogames🎲 (RTS or RPG). 
-- 💡 **Fun Facts**: I'm a dog🐶 person, although I've had far more cats🐈 in my life. I probably drink too much tea while debugging code 🍵. I
+- 🎮 **Hobbies**: In my free time I like reading books📚 (fantasy/adventure or sci-fi), drawing✏️ (I do "Inktober" each year) and playing videogames🎲 (RTS or RPG). 
+- 💡 **Fun Facts**: I'm a dog🐶 person, although I took care of far more cats🐈 in my life. I probably drink too much tea while debugging code 🍵.
 
 ## 🛠️ Tech I’m Exploring
 
