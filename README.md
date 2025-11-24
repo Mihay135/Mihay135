@@ -62,6 +62,7 @@ Feel free to reach out. I’d love to connect, collaborate, or just chat about t
 
 ##
 *Built with 💻 and a sprinkle of Italian/Romanian flair 🇮🇹/🇷🇴. Star ⭐ my repos if you like what you see!*
+## My Repositories Below
 <!---
 Mihay135/Mihay135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
