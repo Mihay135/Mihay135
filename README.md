@@ -32,7 +32,7 @@ I’m all about learning by doing, so expect to see a mix of projects showcasing
 
 - **University Projects**: Projects in Java (SOLID principles and Design Patterns), SQL, C, MATLAB, and RISC-V for coursework.
 - **Personal Experiments**: React.js frontends, Java Swing CRUD apps, and more.
-- **Check out my repositories <a href="https://github.com/Mihay135#my-repositories-below">below</a> for the latest projects!**
+- **Check out my Pinned Repositories <a href="https://github.com/Mihay135#my-repositories-below">Below</a> for the latest projects!** <a href="https://github.com/Mihay135#my-repositories-below">⤵️</a>
 
 ## 📊 GitHub Stats
 
@@ -62,7 +62,7 @@ Feel free to reach out. I’d love to connect, collaborate, or just chat about t
 
 ##
 *Built with 💻 and a sprinkle of Italian/Romanian flair 🇮🇹/🇷🇴. Star ⭐ my repos if you like what you see!*
-## My Repositories Below
+## My Pinned Repositories Below! ⤵️
 <!---
 Mihay135/Mihay135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
