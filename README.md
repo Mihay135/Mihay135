@@ -19,8 +19,8 @@ I’m currently juggling a variety of technologies to broaden my skills which un
 
 - **Backend**: Java, Java Spring/Boot (basic), SQL
 - **Frontend**: JavaScript/TypeScript, HTML/CSS, React.js, TailwindCSS
-- **GUI Development**: Java Swing🪟
-- **Databases**: MySQL, phpMyAdmin, SQLite, MsSQL
+- **GUI Development**: Java Swing 🪟
+- **Databases**: MySQL, phpMyAdmin, SQLite
 - **Testing**: Junit, AssertJ
 - **Tools**: WordPress 📝, Agile/SCRUM 🏃‍♂️, lucide-react, Axios (react)
 - **Other**: C, RISC-V, MATLAB(from university projects);  PHP (from Highschool)
@@ -30,7 +30,7 @@ I’m all about learning by doing, so expect to see a mix of projects showcasing
 
 ## 📚 Current Projects
 
-- **University Projects**: Projects in Java, SQL, C, MATLAB, and RISC-V for coursework.
+- **University Projects**: Projects in Java (SOLID principles and Design Patterns), SQL, C, MATLAB, and RISC-V for coursework.
 - **Personal Experiments**: React.js frontends, Java Swing CRUD apps, and more.
 - **Check out my repositories below for the latest projects!**
 
