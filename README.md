@@ -32,7 +32,7 @@ I’m all about learning by doing, so expect to see a mix of projects showcasing
 
 - **University Projects**: Projects in Java (SOLID principles and Design Patterns), SQL, C, MATLAB, and RISC-V for coursework.
 - **Personal Experiments**: React.js frontends, Java Swing CRUD apps, and more.
-- **Check out my repositories below for the latest projects!**
+- **Check out my repositories <a href="https://github.com/Mihay135#:~:text=Pinned" style="text-decoration: none;">below</a> for the latest projects!**
 
 ## 📊 GitHub Stats
 
