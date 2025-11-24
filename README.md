@@ -29,7 +29,7 @@ I’m currently juggling a variety of technologies to broaden my skills which un
 I’m all about learning by doing, so expect to see a mix of projects showcasing these skills!
 
 ## 📚 Current Projects
-- **Check out my Pinned Repositories <a href="https://github.com/Mihay135#my-repositories-below">Below</a> for the latest projects!** <a href="https://github.com/Mihay135#my-repositories-below">⤵️</a>
+- **Check out my Pinned Repositories <a href="https://github.com/Mihay135#my-pinned-repositories-below-%EF%B8%8F">Below</a> for the latest projects!** <a href="https://github.com/Mihay135#my-pinned-repositories-below-%EF%B8%8F">⤵️</a>
 - **Personal Experiments**: React.js frontends, Java Swing CRUD apps, and more.
 - **University Projects**: Projects in Java (SOLID principles and Design Patterns), SQL, C, MATLAB, and RISC-V for coursework.
 - **See all Repositories**: Click <a href="https://github.com/Mihay135?tab=repositories">Here</a> to View All Public Repositories.
