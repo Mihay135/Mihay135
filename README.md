@@ -36,7 +36,9 @@ I’m all about learning by doing, so expect to see a mix of projects showcasing
 
 ## 📊 GitHub Stats
 
-![Mihai's GitHub stats](https://github-readme-stats.vercel.app/api?username=mihay135&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihay135&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mihay135&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) 
+
 
 ## 🚀 Goals
 
