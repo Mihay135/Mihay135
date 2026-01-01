@@ -24,7 +24,7 @@ I’m currently juggling a variety of technologies to broaden my skills which un
 - **Testing**: Junit, AssertJ
 - **Tools**: WordPress 📝, Agile/SCRUM 🏃‍♂️, lucide-react, Axios (react)
 - **Other**: C, RISC-V, MATLAB(from university projects);  PHP (from Highschool)
-- **Spoken Languages**: Romanian (Native) 🇷🇴, Italian (C2) 🇮🇹, English (C1) 🇬🇧, French (B1) 🇫🇷, Dutch (A1) 🇳🇱
+- **Spoken Languages**: Romanian (Native) 🇷🇴, Italian (C2) 🇮🇹, English (C1) 🇬🇧, French (B1) 🇫🇷, Dutch (A2) 🇳🇱
 
 I’m all about learning by doing, so expect to see a mix of projects showcasing these skills!
 
