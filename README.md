@@ -34,12 +34,6 @@ I’m all about learning by doing, so expect to see a mix of projects showcasing
 - **University Projects**: Projects in Java (SOLID principles and Design Patterns), SQL, C, MATLAB, and RISC-V for coursework.
 - **See all Repositories**: Click <a href="https://github.com/Mihay135?tab=repositories">Here</a> to View All Public Repositories.
 
-## 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mihay135&layout=compact&theme=tokyonight)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mihay135&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true) 
-
-
 ## 🚀 Goals
 
 - Master GitHub workflows to collaborate like a pro.
@@ -53,10 +47,7 @@ Feel free to reach out. I’d love to connect, collaborate, or just chat about t
 <a href="mailto:sauca.mihai.135@gmail.com">
    <img height="40" width="40" src="ReadmeIcons/gmailIcon.png" alt="Gmail" />
 </a>
-<p>
-&ensp;
-</p>
-
+<br/>
 <a href="https://www.linkedin.com/in/mihai-sauca-462b91356">
    <img height="40" width="40" src="ReadmeIcons/linkedInIcon.png" alt="LinkedIn" />
 </a>
