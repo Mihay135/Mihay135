@@ -3,7 +3,7 @@
 <img src="ReadmeIcons/profile_banner.jpg" height = "150px" width= "85%"/>
 <p>*Just an Italian/Romanian tech enthusiast diving into the world of coding as a software developer! 🚀*
 
-Hailing from Romania 🇷🇴 I made my way to the beautiful land of Italy 🇮🇹 when I was very young. I’m a curious learner passionate about exploring the vast universe of technology, from crafting sleek Java GUIs to building dynamic web apps. I’m on a mission to soak up as much knowledge as possible before mastering my favorite tech stacks!</p>
+Hailing from Romania 🇷🇴 I made my way to the beautiful land of Italy 🇮🇹 when I was very young. I’m a curious learner passionate about exploring the vast universe of technology, from building dynamic web apps to crafting sleek Java GUIs . I’m on a mission to soak up as much knowledge as possible before mastering my favorite tech stacks!</p>
 
 ## 🌟 About Me
 
