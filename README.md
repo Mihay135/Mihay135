@@ -18,11 +18,11 @@ Hailing from Romania 🇷🇴 I made my way to the beautiful land of Italy 🇮�
 I’m currently juggling a variety of technologies to broaden my skills which until now contain the following:
 
 - **Backend**: Java, Java Spring/Boot (basic), SQL
-- **Frontend**: JavaScript/TypeScript, HTML/CSS, React.js, TailwindCSS
+- **Frontend**: JavaScript/TypeScript, HTML/CSS, React.js, Vite.js, TailwindCSS
 - **GUI Development**: Java Swing 🪟
 - **Databases**: MySQL, phpMyAdmin, SQLite
-- **Testing**: Junit, AssertJ
-- **Tools**: WordPress 📝, Agile/SCRUM 🏃‍♂️, lucide-react, Axios (react)
+- **Testing**: Junit, AssertJ, Jest, React-testing-library, Cypress (react)
+- **Tools**: WordPress 📝, Agile/SCRUM 🏃‍♂️, lucide-react, Axios (react), Zustand (react)
 - **Other**: C, RISC-V, MATLAB(from university projects);  PHP (from Highschool)
 - **Spoken Languages**: Romanian (Native) 🇷🇴, Italian (C2) 🇮🇹, English (C1) 🇬🇧, French (B1) 🇫🇷, Dutch (A2) 🇳🇱
 
