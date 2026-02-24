@@ -21,7 +21,7 @@ I’m currently juggling a variety of technologies to broaden my skills which un
 - **Frontend**: JavaScript/TypeScript, HTML/CSS, React.js, Vite.js, TailwindCSS
 - **GUI Development**: Java Swing 🪟
 - **Databases**: MySQL, phpMyAdmin, SQLite
-- **Testing**: Junit, AssertJ, Jest, React-testing-library, Cypress (react)
+- **Testing**: Junit, AssertJ, Vitest, React-testing-library, Cypress (react)
 - **Tools**: WordPress 📝, Agile/SCRUM 🏃‍♂️, lucide-react, Axios (react), Zustand (react)
 - **Other**: C, RISC-V, MATLAB(from university projects);  PHP (from Highschool)
 - **Spoken Languages**: Romanian (Native) 🇷🇴, Italian (C2) 🇮🇹, English (C1) 🇬🇧, French (B1) 🇫🇷, Dutch (A2) 🇳🇱
