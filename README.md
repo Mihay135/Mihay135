@@ -22,8 +22,8 @@ I’m currently juggling a variety of technologies to broaden my skills which un
 - **GUI Development**: Java Swing 🪟
 - **Databases**: MySQL, phpMyAdmin, SQLite
 - **Testing**: Junit, AssertJ, Vitest, React-testing-library, Cypress (react)
-- **Tools**: WordPress 📝, Agile/SCRUM 🏃‍♂️, lucide-react, Axios (react), Zustand (react)
-- **Other**: C, RISC-V, MATLAB(from university projects);  PHP (from Highschool)
+- **Tools**: WordPress 📝, Agile/SCRUM 🏃‍♂️, lucide-react, Axios (react), Zustand (react), Shadcn (react)
+- **Other**: C, RISC-V, MATLAB(all 3 from university projects);  PHP (from Highschool)
 - **Spoken Languages**: Romanian (Native) 🇷🇴, Italian (C2) 🇮🇹, English (C1) 🇬🇧, French (B1) 🇫🇷, Dutch (A2) 🇳🇱
 
 I’m all about learning by doing, so expect to see a mix of projects showcasing these skills!
